@@ -6,7 +6,7 @@ interface HomeProps {
 
 export const Home: React.FC<HomeProps> = () => {
 return (
- <div className='w-screen h-screen text-fuchsia-500 text-6xl '>
+ <div className='w-full h-full bg-slate-400'>
 Home
  </div>
 );
